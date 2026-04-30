@@ -59,7 +59,7 @@ The model produces grammatically coherent English captions for most validation i
 | Image | Predicted caption |
 |-------|------------------|
 | ![](images/pred_1777428180_10.png) | "a man is climbing a rock" |
-| ![](images/pred_1777428180_06.png) | "a dog is running through a field of grass with a ball in its mouth" |
+| ![](images/pred_1777428547_07.png) | "a dog is running through a field of grass with a ball in its mouth" |
 | ![](images/pred_1777428180_06.png) | "a dog is running through the water" |
 | ![](images/pred_1777428547_10.png) | "a group of people are sitting in a field" |
 

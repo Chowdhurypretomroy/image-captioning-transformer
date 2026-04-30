@@ -66,7 +66,7 @@ The model produces grammatically coherent English captions for most validation i
 
 ## Repository Structure
 
-
+```
 Image-Captioning-Transformer/
 ├── src/
 │   └── image_captioning.py       # Standalone training script
@@ -77,6 +77,8 @@ Image-Captioning-Transformer/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+```
+
 
 
 ## Known Limitations
